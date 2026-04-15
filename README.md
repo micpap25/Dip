@@ -149,7 +149,7 @@ python -m coinor.dippy.examples
 ```
 To get help for an example, do, e.g.,
 ```
-python -m coinor.dippy.example.cflp --help
+python -m coinor.dippy.examples.cflp --help
 ```
 or just run
 ```
